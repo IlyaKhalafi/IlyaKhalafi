@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @IlyaKhalafi
-- 👀 I’m interested in Programming & Machine Learning
-- 🌱 I’m currently learning Spring Boot & Tensorflow
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Programming with Java, Python and C++
+- 🌱 I’m currently learning Flutte and Tensorflow
 - 📫 My Email : ilyakhalafi@yahoo.com
