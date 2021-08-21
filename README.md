@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @IlyaKhalafi
-- 👀 I’m interested in Programming with Java, Python and C++
-- 🌱 I’m currently learning Flutte and Tensorflow
+- 👀 I’m interested in programming in Java, Python and C++
 - 📫 My Email : ilyakhalafi@yahoo.com
