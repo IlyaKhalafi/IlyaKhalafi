@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/followers/ilyakhalafi?style=social)<br>
 ![](https://img.shields.io/github/stars/ilyakhalafi?style=social)<br>
 
-#### Hi, my name is ILYA 👋
+### **Hi, my name is ILYA 👋**
 
 ### 📚 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 I'm currently studying BSc in Computer Science at Amirkabir University of Technology.
