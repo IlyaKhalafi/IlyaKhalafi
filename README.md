@@ -1,7 +1,7 @@
 
-<!-- ![](https://komarev.com/ghpvc/?username=ilyakhalafi&color=36b812)<br>
+![](https://komarev.com/ghpvc/?username=ilyakhalafi&color=36b812)<br>
 ![](https://img.shields.io/github/followers/ilyakhalafi?style=social)<br>
-![](https://img.shields.io/github/stars/ilyakhalafi?style=social)<br> -->
+![](https://img.shields.io/github/stars/ilyakhalafi?style=social)<br>
 
 #### Hi, my name is ILYA 👋
 
