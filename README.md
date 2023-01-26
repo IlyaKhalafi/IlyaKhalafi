@@ -28,5 +28,7 @@
 
 ### ⭐ Github Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilyakhalafi&show_icons=true&theme=bear" alt="ILYA's github stats" /></a> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ilyakhalafi&theme=dark&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyakhalafi&layout=compact&theme=dark&hide_border=true" alt="ILYA's github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ilyakhalafi&theme=dark&hide_border=true" alt="ILYA's github streak" /> |
 | ------------- | ------------- |
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
