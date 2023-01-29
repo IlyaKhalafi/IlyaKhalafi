@@ -12,8 +12,8 @@
 ### 🛠️ Skills
 - Languages: Python, Java, C++
 - DS/ML/DL: Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Pytorch
-- Database: MySQL, SQLite, Sqlalchemy, Hibernate
-- Development: Pyrogram, Flask, Streamlit
+- DB: MySQL, SQLite, Sqlalchemy, Hibernate
+- Dev: Git, Docker, Pyrogram, Flask, Streamlit
 
 ### 📫 How to reach me?
 
