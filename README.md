@@ -1,19 +1,12 @@
 
-![](https://komarev.com/ghpvc/?username=ilyakhalafi&color=36b812)<br>
-![](https://img.shields.io/github/followers/ilyakhalafi?style=social)<br>
-![](https://img.shields.io/github/stars/ilyakhalafi?style=social)<br>
+<!-- ![](https://komarev.com/ghpvc/?username=ilyakhalafi&color=36b812)<br> -->
+<!-- ![](https://img.shields.io/github/followers/ilyakhalafi?style=social)<br> -->
+<!-- ![](https://img.shields.io/github/stars/ilyakhalafi?style=social)<br> -->
 
 ### **Hi, my name is ILYA 👋**
 
-### 📚 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 I'm currently studying BSc in Computer Science at Amirkabir University of Technology.
 - 💖 I'm interested in Machine Learning, Data Science, and Artificial Intelligence.
-
-### 🛠️ Skills
-- Languages: Python, Java, C++
-- DS/ML/DL: Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Pytorch
-- DB: MySQL, SQLite, Sqlalchemy, Hibernate
-- Dev: Git, Docker, Pyrogram, Flask, Streamlit
 
 ### 📫 How to reach me?
 
@@ -28,7 +21,4 @@
 
 ### ⭐ Github Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyakhalafi&layout=compact&theme=dark&hide_border=true" alt="ILYA's github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ilyakhalafi&theme=dark&hide_border=true" alt="ILYA's github streak" /> |
-| ------------- | ------------- |
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyakhalafi&layout=compact&theme=dark&hide_border=true" alt="ILYA's github stats" />
