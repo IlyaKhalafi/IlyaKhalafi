@@ -6,7 +6,7 @@
 ### **Hi, my name is ILYA 👋**
 
 - 🎓 I'm currently studying BSc in Computer Science at Amirkabir University of Technology.
-- 💖 I'm interested in Machine Learning, Data Science, and Artificial Intelligence.
+- 💖 I'm interested in Deep Learning, specifically Deep Reinforcement Learning and Computer Vision.
 
 ### 📫 How to reach me?
 
