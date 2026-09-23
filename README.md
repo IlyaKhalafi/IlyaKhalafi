@@ -13,7 +13,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-4B4B4B?style=flat)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC2446?style=flat)
